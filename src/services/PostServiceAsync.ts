@@ -1,5 +1,4 @@
 import {Postmodel} from "../models/postmodel";
-import {json} from "stream/consumers";
 const path:string="https://localhost:7178/posts"
 
 
